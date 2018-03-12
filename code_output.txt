@@ -1,0 +1,95 @@
+runfile('C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA/sourcecode.py', wdir='C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA')
+b'{\n  "name" : "9VASwEP",\n  "cluster_name" : "elasticsearch",\n  "cluster_uuid" : "fJ4h7LQYQMCgqK1edH9S-g",\n  "version" : {\n    "number" : "6.2.2",\n    "build_hash" : "10b1edd",\n    "build_date" : "2018-02-16T19:01:30.685723Z",\n    "build_snapshot" : false,\n    "lucene_version" : "7.2.1",\n    "minimum_wire_compatibility_version" : "5.6.0",\n    "minimum_index_compatibility_version" : "5.0.0"\n  },\n  "tagline" : "You Know, for Search"\n}\n'
+
+Please state your question: Who is the CEO of Apple?
+Tim Cook
+
+
+
+
+
+runfile('C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA/sourcecode.py', wdir='C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA')
+b'{\n  "name" : "9VASwEP",\n  "cluster_name" : "elasticsearch",\n  "cluster_uuid" : "fJ4h7LQYQMCgqK1edH9S-g",\n  "version" : {\n    "number" : "6.2.2",\n    "build_hash" : "10b1edd",\n    "build_date" : "2018-02-16T19:01:30.685723Z",\n    "build_snapshot" : false,\n    "lucene_version" : "7.2.1",\n    "minimum_wire_compatibility_version" : "5.6.0",\n    "minimum_index_compatibility_version" : "5.0.0"\n  },\n  "tagline" : "You Know, for Search"\n}\n'
+
+Please state your question: Who is the CEO of Facebook?
+Mark Zuckerberg
+
+
+
+
+
+runfile('C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA/sourcecode.py', wdir='C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA')
+b'{\n  "name" : "9VASwEP",\n  "cluster_name" : "elasticsearch",\n  "cluster_uuid" : "fJ4h7LQYQMCgqK1edH9S-g",\n  "version" : {\n    "number" : "6.2.2",\n    "build_hash" : "10b1edd",\n    "build_date" : "2018-02-16T19:01:30.685723Z",\n    "build_snapshot" : false,\n    "lucene_version" : "7.2.1",\n    "minimum_wire_compatibility_version" : "5.6.0",\n    "minimum_index_compatibility_version" : "5.0.0"\n  },\n  "tagline" : "You Know, for Search"\n}\n'
+
+Please state your question: Who is the CEO of Microsoft?
+Steve Ballmer
+
+
+
+
+
+runfile('C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA/sourcecode.py', wdir='C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA')
+b'{\n  "name" : "9VASwEP",\n  "cluster_name" : "elasticsearch",\n  "cluster_uuid" : "fJ4h7LQYQMCgqK1edH9S-g",\n  "version" : {\n    "number" : "6.2.2",\n    "build_hash" : "10b1edd",\n    "build_date" : "2018-02-16T19:01:30.685723Z",\n    "build_snapshot" : false,\n    "lucene_version" : "7.2.1",\n    "minimum_wire_compatibility_version" : "5.6.0",\n    "minimum_index_compatibility_version" : "5.0.0"\n  },\n  "tagline" : "You Know, for Search"\n}\n'
+
+Please state your question: Which companies went bankrupt in March of 2013?
+['Better Place', 'Pink Elephant', 'CODA', 'Fisker', 'Businesses', 'Better', 'Place', 'So', 'Pink', 'Elephant', 'No', 'France']
+
+
+
+
+
+runfile('C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA/sourcecode.py', wdir='C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA')
+b'{\n  "name" : "9VASwEP",\n  "cluster_name" : "elasticsearch",\n  "cluster_uuid" : "fJ4h7LQYQMCgqK1edH9S-g",\n  "version" : {\n    "number" : "6.2.2",\n    "build_hash" : "10b1edd",\n    "build_date" : "2018-02-16T19:01:30.685723Z",\n    "build_snapshot" : false,\n    "lucene_version" : "7.2.1",\n    "minimum_wire_compatibility_version" : "5.6.0",\n    "minimum_index_compatibility_version" : "5.0.0"\n  },\n  "tagline" : "You Know, for Search"\n}\n'
+
+Please state your question: Which companies went bankrupt in December of 2008?
+['Nick Griffin', 'Pink Elephant', 'BNP', 'Nick', 'Griffin', 'Central', 'Businesses', 'So', 'Pink', 'Elephant', 'No', 'France', 'Not', 'Congress']
+
+
+
+
+
+runfile('C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA/sourcecode.py', wdir='C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA')
+b'{\n  "name" : "9VASwEP",\n  "cluster_name" : "elasticsearch",\n  "cluster_uuid" : "fJ4h7LQYQMCgqK1edH9S-g",\n  "version" : {\n    "number" : "6.2.2",\n    "build_hash" : "10b1edd",\n    "build_date" : "2018-02-16T19:01:30.685723Z",\n    "build_snapshot" : false,\n    "lucene_version" : "7.2.1",\n    "minimum_wire_compatibility_version" : "5.6.0",\n    "minimum_index_compatibility_version" : "5.0.0"\n  },\n  "tagline" : "You Know, for Search"\n}\n'
+
+Please state your question: Which companies went bankrupt in October of 2009?
+['Vadim Varshavsky', 'Better Place', 'Pink Elephant', 'CODA', 'Herrera', 'That', 'Mechel', 'Estar', 'Zyuzin', 'Estar', 'Vadim', 'Varshavsky', 'Fisker', 'Businesses', 'Better', 'Place', 'No', 'France', 'So', 'Pink', 'Elephant']
+
+
+
+
+
+runfile('C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA/sourcecode.py', wdir='C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA')
+b'{\n  "name" : "9VASwEP",\n  "cluster_name" : "elasticsearch",\n  "cluster_uuid" : "fJ4h7LQYQMCgqK1edH9S-g",\n  "version" : {\n    "number" : "6.2.2",\n    "build_hash" : "10b1edd",\n    "build_date" : "2018-02-16T19:01:30.685723Z",\n    "build_snapshot" : false,\n    "lucene_version" : "7.2.1",\n    "minimum_wire_compatibility_version" : "5.6.0",\n    "minimum_index_compatibility_version" : "5.0.0"\n  },\n  "tagline" : "You Know, for Search"\n}\n'
+
+Please state your question: What affects GDP?
+['Figure', 'area', 'forecast', 'addition', 'trade', 'course', 'share', 'decline', 'world', 'grow', 'Year', 'year', 'decline', 'growth', 'rate', 'report', 'attainment', 'grow', 'line', 'growth', 'widening', 'dispersion', 'scenario', 'moderating', 'attainment', 'inequality', 'capital', 'accumulation', 'quarter', 'consensus', 'decline', 'decline', 'yen', 'contribution', 'report', 'deficit', 'percent']
+
+
+
+
+
+runfile('C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA/sourcecode.py', wdir='C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA')
+b'{\n  "name" : "9VASwEP",\n  "cluster_name" : "elasticsearch",\n  "cluster_uuid" : "fJ4h7LQYQMCgqK1edH9S-g",\n  "version" : {\n    "number" : "6.2.2",\n    "build_hash" : "10b1edd",\n    "build_date" : "2018-02-16T19:01:30.685723Z",\n    "build_snapshot" : false,\n    "lucene_version" : "7.2.1",\n    "minimum_wire_compatibility_version" : "5.6.0",\n    "minimum_index_compatibility_version" : "5.0.0"\n  },\n  "tagline" : "You Know, for Search"\n}\n'
+
+Please state your question: What percentage of drop or increase is associated with trade?
+7.8
+
+
+
+
+
+runfile('C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA/sourcecode.py', wdir='C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA')
+b'{\n  "name" : "9VASwEP",\n  "cluster_name" : "elasticsearch",\n  "cluster_uuid" : "fJ4h7LQYQMCgqK1edH9S-g",\n  "version" : {\n    "number" : "6.2.2",\n    "build_hash" : "10b1edd",\n    "build_date" : "2018-02-16T19:01:30.685723Z",\n    "build_snapshot" : false,\n    "lucene_version" : "7.2.1",\n    "minimum_wire_compatibility_version" : "5.6.0",\n    "minimum_index_compatibility_version" : "5.0.0"\n  },\n  "tagline" : "You Know, for Search"\n}\n'
+
+Please state your question: What percentage of drop or increase is associated with the deficit?
+2.4%
+
+
+
+
+
+runfile('C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA/sourcecode.py', wdir='C:/Users/Pranav/Documents/Northwestern/Junior/Winter/IEMS_308/Kaza_QA')
+b'{\n  "name" : "9VASwEP",\n  "cluster_name" : "elasticsearch",\n  "cluster_uuid" : "fJ4h7LQYQMCgqK1edH9S-g",\n  "version" : {\n    "number" : "6.2.2",\n    "build_hash" : "10b1edd",\n    "build_date" : "2018-02-16T19:01:30.685723Z",\n    "build_snapshot" : false,\n    "lucene_version" : "7.2.1",\n    "minimum_wire_compatibility_version" : "5.6.0",\n    "minimum_index_compatibility_version" : "5.0.0"\n  },\n  "tagline" : "You Know, for Search"\n}\n'
+
+Please state your question: What percentage of drop or increase is associated with inequality?
+54%
